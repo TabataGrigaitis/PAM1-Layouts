@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">PAM1-Layouts</string>
+    <string name="destino">DESTINO</string>
+    <string name="chegada">DATA DE CHEGADA</string>
+    <string name="saida">DATA DE SAIDA</string>
+    <string name="selecione">SELECIONE</string>
+    <string name="orcamentos">ORÇAMENTOS</string>
+    <string name="nPessoas">Nº DE PESSOAS</string>
+    <string name="salvar">SALVAR</string>
 </resources>
